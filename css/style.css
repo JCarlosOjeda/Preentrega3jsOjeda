@@ -53,7 +53,18 @@ body {
   padding: 20px;
   font-weight: 600;
 }
+ .titulobtn {
+  color:  rgb(255, 251, 212);
+  font-size: 1rem;
+  font-style: oblique;
+  text-align: center;
+  padding: 20px;
+  font-weight: 600;
+ }
 
+#btn1 {
+  background-color: #07a837;
+}
 /*---Header---*/
 .header {
   background-color: #07a837;
